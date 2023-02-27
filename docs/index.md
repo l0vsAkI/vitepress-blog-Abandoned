@@ -11,8 +11,8 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/what-is-vitepress
+      link: /eslint&prettier
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/rovenssiren9417/rovenssiren9417.github.io
 ---

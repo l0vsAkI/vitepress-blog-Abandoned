@@ -1,19 +1,8 @@
 export default {
   sidebar: [
     {
-      text: "Section Title A",
-      items: [
-        { text: "Item A", link: "/item-a" },
-        { text: "Item B", link: "/item-b" },
-      ],
-    },
-    {
-      text: "Section Title B",
-      collapsed: true,
-      items: [
-        { text: "Item C", link: "/item-c" },
-        { text: "Item D", link: "/item-d" },
-      ],
+      text: "代码风格,纠错与格式化",
+      link: "/eslint&prettier.md",
     },
   ],
 };

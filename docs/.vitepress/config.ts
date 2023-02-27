@@ -21,10 +21,6 @@ export default defineConfig({
       apiKey: "",
       indexName: "",
     },
-    carbonAds: {
-      code: "your-carbon-code",
-      placement: "your-carbon-placement",
-    },
   },
   markdown: {
     // lineNumbers: true, // 行号显示
