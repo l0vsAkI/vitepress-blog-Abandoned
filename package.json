@@ -1,0 +1,33 @@
+{
+  "name": "rovenssiren9417.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rovenssiren9417/rovenssiren9417.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rovenssiren9417/rovenssiren9417.github.io/issues"
+  },
+  "homepage": "https://github.com/rovenssiren9417/rovenssiren9417.github.io#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.48",
+    "vue": "^3.2.47"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
+  }
+}
