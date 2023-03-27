@@ -6,7 +6,7 @@ hero:
   text: 人生五十年如梦,亦似幻
   tagline: 上班的时候少打游戏多看书
   image:
-    src: /logo.png
+    src: https://img.shields.io/npm/v/vitepress)](https://www.npmjs.com/package/vitepress
     alt: VitePress
   actions:
     - theme: brand
