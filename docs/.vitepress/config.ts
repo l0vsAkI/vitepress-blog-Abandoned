@@ -3,6 +3,8 @@ import nav from "./themes/nav";
 import sidebar from "./themes/sidebar";
 
 export default defineConfig({
+  title: "Blog",
+  description: "A Roven`s blog",
   lang: "zh-CN",
   lastUpdated: true,
   themeConfig: {
