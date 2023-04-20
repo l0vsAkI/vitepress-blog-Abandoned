@@ -5,8 +5,8 @@ export default {
       link: "/开发环境.md",
     },
     {
-      text: "代码风格,纠错与格式化",
-      link: "/eslint&prettier.md",
+      text: "linter与Code Style",
+      link: "/linter&codeStyle.md",
     },
   ],
 };
