@@ -6,7 +6,7 @@
 
 ---
 
-VitePress is [VuePress](https://vuepress.vuejs.org)' spiritual successor, built on top of [vite](https://github.com/vitejs/vite).
+VitePress is a [VuePress](https://vuepress.vuejs.org)' spiritual successor, built on top of [vite](https://github.com/vitejs/vite).
 
 Currently, it's in the `alpha` stage. It is already suitable for out-of-the-box documentation use, but the config and theming API may still change between minor releases.
 
