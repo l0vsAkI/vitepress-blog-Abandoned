@@ -6,7 +6,7 @@ export default {
     },
     {
       text: "linter与Code Style",
-      link: "/linter&codeStyle.md",
+      link: "/代码风格与审查.md",
     },
   ],
 };
